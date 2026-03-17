@@ -7,8 +7,7 @@ I build at the intersection of product thinking and technical execution. From sh
 
 Currently exploring AI, developer tooling, and multi-sided platforms.
 
-📫 abdullahmustafa300@gmail.com | abdullah.mustafa@ontariotechu.net | https://www.linkedin.com/in/abdullah-mustafa-5080282b2/
-
+📫 abdullahmustafa300@gmail.com | abdullah.mustafa@ontariotechu.net 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahscity) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mustafa-5080282b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahmustafa300@gmail.com)
 
